@@ -9,7 +9,7 @@ This project demonstrates semantic markup, advanced CSS styling, and responsive 
 ## 🚀 Live Demo
 
 Check out the live deployment of the project here:  
-👉 **[Live Demo Link](https://hassanbinzubair.github.io/OLX_Clone_Using_HTML_CSS_Only)**
+👉 **[Live Demo Link](https://hassanbinzubair.github.io/olxclone**)
 
 ---
 
@@ -19,13 +19,11 @@ Check out the live deployment of the project here:
 - **Component-Based Styling:** Features structured layouts for navigation, product grids, and footers.
 - **Pure HTML/CSS:** Zero dependencies, zero frameworks, and zero JavaScript.
 - **Semantic HTML5:** Built using SEO-friendly elements like `<header>`, `<nav>`, `<main>`, and `<footer>`.
-- **CSS Flexbox & Grid:** Utilizes modern layout techniques for precise alignment and structural stability.
-
 ---
 
 ## 👤 Contact
 
 **Hassan Bin Zubair**
-
+- **Gmail** [hassanbinzubair5@gmail.com](mailto:hassanbinzubair5@gmail.com)
 - **GitHub:** [hassanbinzubair](https://github.com/hassanbinzubair)
-- **Project Link:** [https://github.com/hassanbinzubair/OLX_Clone_Using_HTML_CSS_Only](https://github.com/hassanbinzubair/OLX_Clone_Using_HTML_CSS_Only)
+- **Project Link:** [https://github.com/hassanbinzubair/olxclone](https://github.com/hassanbinzubair/olxclone)
